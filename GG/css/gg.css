@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+	font-family: serif;
+
+}
+
+h1{
+	font-size: 200%;
+	text-align: center;
+}
+
+h2{
+	font-size: 135%;
+	font-family: cursive;
+}
+
+
+section{
+
+	padding: 10px 20px 10px 20px;
+
+	
+	border:1px solid black;
+	overflow: auto;
+}
+
+li{
+	font-family: 'Times New Roman';
+}
+#jerin{
+	background-color: red;
+}	
+
+#royce{
+
+	background-color: blue;
+	
+}
